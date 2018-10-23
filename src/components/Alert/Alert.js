@@ -103,7 +103,7 @@ Alert.propTypes = {
   /**
    * Set the color scheme to indicate the nature of the alert.
    */
-  type: PropTypes.oneOf(['default', 'info', 'success', 'warning', 'error']),
+  type: PropTypes.oneOf(['info', 'success', 'warning', 'error']),
   /**
    * Toggle whether the alert is shown
    */
@@ -117,7 +117,7 @@ Alert.propTypes = {
 Alert.defaultProps = {
   icon: '',
   title: '',
-  type: 'default',
+  type: 'info',
   visible: true,
   onClose: null,
 };

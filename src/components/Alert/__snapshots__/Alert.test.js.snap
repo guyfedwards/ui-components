@@ -6,10 +6,10 @@ exports[`<Alert /> snapshots renders default 1`] = `
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  background: hsl(0,0%,96%);
+  background: hsl(191,100%,40%);
   border-radius: 2px;
-  border: 2px solid hsl(0,0%,80%);
-  color: hsl(0,0%,10%);
+  border: 2px solid hsl(191,100%,30%);
+  color: hsl(0,0%,100%);
   margin: 8px 0 8px 0;
   min-height: 1em;
   opacity: 1;
@@ -19,7 +19,7 @@ exports[`<Alert /> snapshots renders default 1`] = `
 }
 
 .c0 a {
-  color: hsl(0,0%,10%);
+  color: hsl(0,0%,100%);
   -webkit-text-decoration: underline;
   text-decoration: underline;
 }
@@ -40,7 +40,7 @@ exports[`<Alert /> snapshots renders default 1`] = `
   className="c0"
   icon=""
   title=""
-  type="default"
+  type="info"
 >
   <div
     className="c1"
@@ -108,10 +108,10 @@ exports[`<Alert /> snapshots renders icon if provided 1`] = `
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  background: hsl(0,0%,96%);
+  background: hsl(191,100%,40%);
   border-radius: 2px;
-  border: 2px solid hsl(0,0%,80%);
-  color: hsl(0,0%,10%);
+  border: 2px solid hsl(191,100%,30%);
+  color: hsl(0,0%,100%);
   margin: 8px 0 8px 0;
   min-height: 1em;
   opacity: 1;
@@ -121,7 +121,7 @@ exports[`<Alert /> snapshots renders icon if provided 1`] = `
 }
 
 .c0 a {
-  color: hsl(0,0%,10%);
+  color: hsl(0,0%,100%);
   -webkit-text-decoration: underline;
   text-decoration: underline;
 }
@@ -142,7 +142,7 @@ exports[`<Alert /> snapshots renders icon if provided 1`] = `
   className="c0"
   icon="warning"
   title=""
-  type="default"
+  type="info"
 >
   <div
     className="c1"
@@ -219,10 +219,10 @@ exports[`<Alert /> snapshots renders title if provided 1`] = `
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  background: hsl(0,0%,96%);
+  background: hsl(191,100%,40%);
   border-radius: 2px;
-  border: 2px solid hsl(0,0%,80%);
-  color: hsl(0,0%,10%);
+  border: 2px solid hsl(191,100%,30%);
+  color: hsl(0,0%,100%);
   margin: 8px 0 8px 0;
   min-height: 1em;
   opacity: 1;
@@ -232,7 +232,7 @@ exports[`<Alert /> snapshots renders title if provided 1`] = `
 }
 
 .c0 a {
-  color: hsl(0,0%,10%);
+  color: hsl(0,0%,100%);
   -webkit-text-decoration: underline;
   text-decoration: underline;
 }
@@ -257,7 +257,7 @@ exports[`<Alert /> snapshots renders title if provided 1`] = `
   className="c0"
   icon=""
   title="title"
-  type="default"
+  type="info"
 >
   <div
     className="c1"
